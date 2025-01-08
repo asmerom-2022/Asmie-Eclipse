@@ -28,7 +28,7 @@
         </section>
 
         <section class="team">
-            <h3 class="h3 team-title">Testominal</h3>
+            <h3 class="h3 team-title">Testimonial</h3>
 
             <ul class="team-list has-scrollbar">
                 <li class="team-item">
