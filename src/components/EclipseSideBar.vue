@@ -7,7 +7,7 @@
                 </figure>
 
                 <div class="info-content">
-                    <h1 class="name" title="Yoel Gebrezgabhier">Asmerom Kiflay</h1>
+                    <h1 class="name" title="Yoel Gebrezgabhier">Asmerom K.</h1>
 
                     <!-- <p class="title">Web & App developer</p> -->
                 </div>
