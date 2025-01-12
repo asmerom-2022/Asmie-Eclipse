@@ -15,7 +15,7 @@ console.log('project', props.name, props.category, props.image);
                     <div class="project-item-icon-box">
                         <ion-icon name="eye-outline"></ion-icon>
                     </div>
-                    <img :src="`/src/assets/images${image}`" alt="image" loading="lazy" />
+                    <img :src="`/assets/images${image}`" alt="image" loading="lazy" />
                 </figure>
 
                 <h3 class="project-title">{{ name }}</h3>

@@ -3,7 +3,7 @@
         <aside class="sidebar" :class="isMenuOpen ? 'active' : ''">
             <div class="sidebar-info">
                 <figure class="avatar-box">
-                    <img src="../assets/images/our-avatar.jpg" alt="Yoel Gebrezgabhier " width="100" />
+                    <img src="/assets/images/our-avatar.jpg" alt="Yoel Gebrezgabhier " width="100" />
                 </figure>
 
                 <div class="info-content">

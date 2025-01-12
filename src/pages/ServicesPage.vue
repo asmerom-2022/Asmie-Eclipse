@@ -11,7 +11,7 @@
             <ul class="service-list">
                 <li class="service-item">
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-design.svg
+                        <img src="/assets/images/icon-design.svg
                 " alt="design icon" width="40" />
                     </div>
 
@@ -26,7 +26,7 @@
 
                 <li class="service-item">
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-dev.svg" alt="Web development icon" width="40" />
+                        <img src="/assets/images/icon-dev.svg" alt="Web development icon" width="40" />
                     </div>
 
                     <div class="service-content-box">
@@ -40,7 +40,7 @@
 
                 <li class="service-item">
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-app.svg" alt="mobile app icon" width="40" />
+                        <img src="/assets/images/icon-app.svg" alt="mobile app icon" width="40" />
                     </div>
 
                     <div class="service-content-box">
@@ -56,7 +56,7 @@
               <!--<li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images/icon-photo.svg" alt="camera icon" width="40">
+                        <img src="/assets/images/icon-photo.svg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">
@@ -72,7 +72,7 @@
                 <li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images\web-hosting.svg" alt="camera icon" width="40">
+                        <img src="/assets/images\web-hosting.svg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">
@@ -90,7 +90,7 @@
                 <li class="service-item">
 
                     <div class="service-icon-box">
-                        <img src="../assets/images\ads.svg" alt="camera icon" width="40">
+                        <img src="/assets/images\ads.svg" alt="camera icon" width="40">
                     </div>
 
                     <div class="service-content-box">

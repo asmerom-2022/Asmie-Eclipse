@@ -34,7 +34,7 @@
                 <li class="team-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="team-avatar-box">
-                            <img src="../assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
+                            <img src="/assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -95,7 +95,7 @@
                 <li class="team-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="team-avatar-box">
-                            <img src="../assets/images/avatar-4.png" alt="Naod Abraham" width="60"
+                            <img src="/assets/images/avatar-4.png" alt="Naod Abraham" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -122,7 +122,7 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
+                            <img src="/assets/images/avatar-1.png" alt="Kibrom Nigusse" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -179,7 +179,7 @@
                 <li class="testimonials-item">
                     <div class="content-card" data-testimonials-item>
                         <figure class="testimonials-avatar-box">
-                            <img src="../assets/images/avatar-4.png" alt="Naod Abraham" width="60"
+                            <img src="/assets/images/avatar-4.png" alt="Naod Abraham" width="60"
                                 data-testimonials-avatar />
                         </figure>
 
@@ -205,37 +205,37 @@
             <ul class="clients-list has-scrollbar">
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-1-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-1-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-2-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-2-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-3-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-3-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-4-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-4-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-5-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-5-color.png" alt="client logo" />
                     </a>
                 </li>
 
                 <li class="clients-item">
                     <a href="#">
-                        <img src="../assets/images/logo-6-color.png" alt="client logo" />
+                        <img src="/assets/images/logo-6-color.png" alt="client logo" />
                     </a>
                 </li>
             </ul>
