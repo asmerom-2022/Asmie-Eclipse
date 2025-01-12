@@ -40,7 +40,7 @@ const navItems = [
     // },
      {
          name: 'Resume',
-         link: '/resume-a',
+         link: '/resume',
          isActive: false
      },
     {
