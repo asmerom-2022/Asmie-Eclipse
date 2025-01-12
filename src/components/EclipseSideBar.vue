@@ -64,14 +64,14 @@
 
                 <ul class="social-list">
                     <li class="social-item">
-                        <a href="https://www.facebook.com/asmerom.yohannes.90?mibextid=ZbWKwL" target="_blank" class="social-link">
-                            <ion-icon name="logo-facebook"></ion-icon>
+                        <a href="www.linkedin.com/in/asmerom-yohannes-571202233" target="_blank" class="social-link">
+                            <ion-icon name="logo-linkedIn"></ion-icon>
                         </a>
                     </li>
 
                     <li class="social-item">
-                        <a href="https://twitter.com/SolianaHaile2?t=4joNOvc6qdAQUmg63t5zgg&s=09" target="_blank" class="social-link">
-                            <ion-icon name="logo-twitter"></ion-icon>
+                        <a href="https://github.com/asmerom-2022" target="_blank" class="social-link">
+                            <ion-icon name="logo-github"></ion-icon>
                         </a>
                     </li>
 
