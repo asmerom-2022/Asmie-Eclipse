@@ -56,7 +56,7 @@ const items = [
         name: "Kabbee +",
         category: "Mobile App",
         path: "https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus",
-        img: "/src/assets/images/img4.png",
+        img: "/img4.png",
     },
     {
 
@@ -64,14 +64,14 @@ const items = [
         name: "Quiz",
         category: "Mobile App",
         path: "https://play.google.com/store/apps/details?id=org.kabbee.kabbeeplus",
-        img: "/src/assets/images/img6.png",
+        img: "/img6.png",
     },
     {
         id: 3,
         name: "learn Streaming",
         category: "mobile app",
         path: "https://eridemy.com/",
-        img: "/src/assets/images/project-13.png",
+        img: "/project-13.png",
     },
 
 
@@ -80,7 +80,7 @@ const items = [
         name: "Quiz",
         category: "Website",
         path: "https://ela-quiz-app.netlify.app/",
-        img: "/src/assets/images/img1.png",
+        img: "/img1.png",
     },
 
     {
@@ -88,7 +88,7 @@ const items = [
         name: "Bible",
         category: "Website",
         path: "https://vue-bible.vercel.app/",
-        img: "/src/assets/images/img5.png",
+        img: "/img5.png",
     },
 
     {
@@ -96,14 +96,14 @@ const items = [
         name: "E-commerce",
         category: "Website",
         path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/img3.png",
+        img: "/img3.png",
     },
     {
         id: 8,
         name: "Recipe",
         category: "Website",
         path: "https://miki-recipe.netlify.app",
-        img: "/src/assets/images/img2.png",
+        img: "/img2.png",
     },
 
     {
@@ -112,7 +112,7 @@ const items = [
         name: "Shopping",
         category: "Mobile App",
         path: "https://ecommerce-app-scratch.web.app/",
-        img: "/src/assets/images/ecommerce.png",
+        img: "/ecommerce.png",
     },
     {
 
@@ -120,28 +120,28 @@ const items = [
         name: "Africa Earth Keepers",
         category: "Website",
         path: "https://africaearthkeepers.com/",
-        img: "/src/assets/images/aek.png",
+        img: "/aek.png",
     },
     {
         id: 11,
         name: "Modernistic",
         category: "Website",
         path: "https://www.modernistic.io/",
-        img: "/src/assets/images/modernistic.png",
+        img: "/modernistic.png",
     },
     {
         id: 12,
         name: "Lina plumbing",
         category: "Website",
         path: "https://linaplumb.co.uk",
-        img: "/src/assets/images/project-12.jpg",
+        img: "/project-12.jpg",
     },
     {
         id: 13,
         name: "Restaurant Reservation",
         category: "Design",
         path: "#",
-        img: "/src/assets/images/figma.png",
+        img: "/figma.png",
     },
 
 
